@@ -56,7 +56,7 @@ print_info() {
     info title
     info underline
 
-    info "OS" distro
+    info "OS" redcatOS Experimentals 529
     info "Host" model
     info "Kernel" kernel
     info "Uptime" uptime
